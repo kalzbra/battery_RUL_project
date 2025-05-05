@@ -1,7 +1,6 @@
-# battery_RUL_project
 ## Battery RUL Prediction Notebook Guide
 
-This repository contains the `battery_RUL.ipynb` notebook for predicting Remaining Useful Life (RUL) of batteries.
+This repository contains the `battery_RUL.ipynb` notebook for predicting **Remaining Useful Life** (RUL) of batteries.
 
 ### Prerequisites
 - Python 3.x
